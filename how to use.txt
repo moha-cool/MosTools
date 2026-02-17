@@ -1,0 +1,1 @@
+Only testet on WINDOWS just download the .bat file from the Releases and run it.
